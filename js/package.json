@@ -1,0 +1,15 @@
+{
+  "name": "similiarity-strings",
+  "version": "1.0.0",
+  "main": "similiarity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "string-similarity": "^4.0.4"
+  }
+}
